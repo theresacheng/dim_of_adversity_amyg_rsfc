@@ -1,0 +1,32 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 0.853381 seconds.
+Elapsed time is 0.340114 seconds.
+    cluster         mean_cl         min_del    max_del    del_x     del_y     del_z 
+    _______    _________________    _______    _______    ______    ______    ______
+
+    1            1    -28      4     137.4     173.78      137.4    173.78       149
+    2          -54    -37    -25    0.0559     2.5944     2.5944      2.19    0.0559
+    3          -42     33     29    3.2544     4.3541      3.602    3.2544    4.3541
+    4           47    -40    -16    1.0071      4.112     1.0071     4.112    2.6394
+    5           34    -38    -10    3.6483     5.1698     5.1698    3.6483    4.8136
+    6          -25     58      8    6.9451     13.104     9.9664    13.104    6.9451
+
+    cluster         mean_cl                                                               anat_labels                                                      
+    _______    _________________    _______________________________________________________________________________________________________________________
+
+    1            1    -28      4    ' // Inter-Hemispheric // undefined // undefined // undefined // undefined // undefined'                               
+    2          -54    -37    -25    ' // Left Cerebrum // Temporal Lobe // Fusiform Gyrus // Gray Matter // brodmann area 20 // Temporal_Inf_L (aal)'      
+    3          -42     33     29    ' // Left Cerebrum // Frontal Lobe // Middle Frontal Gyrus // White Matter // undefined // Frontal_Mid_L (aal)'        
+    4           47    -40    -16    ' // Right Cerebrum // Temporal Lobe // Fusiform Gyrus // Gray Matter // brodmann area 37 // Temporal_Inf_R (aal)'     
+    5           34    -38    -10    ' // Right Cerebrum // Limbic Lobe // Parahippocampa Gyrus // White Matter // undefined // ParaHippocampal_R (aal)'    
+    6          -25     58      8    ' // Left Cerebrum // Frontal Lobe // Superior Frontal Gyrus // Gray Matter // brodmann area 10 // Frontal_Sup_L (aal)'
+

@@ -1,0 +1,44 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 0.859092 seconds.
+Elapsed time is 0.325986 seconds.
+    cluster         mean_cl         min_del    max_del     del_x      del_y      del_z 
+    _______    _________________    _______    _______    _______    _______    _______
+
+     1           1    -28      4      137.4    173.78       137.4     173.78        149
+     2          64    -10    -23     1.0788    1.7991      1.0841     1.7991     1.0788
+     3           2     36    -26      0.107    1.8012     0.33109      0.107     1.8012
+     4           7     -7     58      1.841    2.6201      2.1894      1.841     2.6201
+     5          61    -39     30     1.1432    3.1882      3.1882     1.1432     2.7168
+     6           6      2     58     1.0806    2.2107      1.0806     2.1447     2.2107
+     7          45     -9     49     1.5875    5.9481      5.9481     1.5875     4.4222
+     8         -48      6      1    0.89475    3.2299      3.2299    0.91488    0.89475
+     9           5     21     40     1.5423    3.9603      1.5928     3.9603     1.5423
+    10          -2      0     37     1.8259     5.699      1.8259     5.2844      5.699
+    11          29     41    -10      4.179    4.9938      4.6042     4.9938      4.179
+    12         -31      0     53     2.3783    3.4587      2.3783     3.4587     2.6268
+
+    cluster         mean_cl                                                                  anat_labels                                                         
+    _______    _________________    _____________________________________________________________________________________________________________________________
+
+     1           1    -28      4    ' // Inter-Hemispheric // undefined // undefined // undefined // undefined // undefined'                                     
+     2          64    -10    -23    ' // Right Cerebrum // Temporal Lobe // Inferior Temporal Gyrus // Gray Matter // brodmann area 20 // Temporal_Mid_R (aal)'  
+     3           2     36    -26    ' // Right Cerebrum // Frontal Lobe // Rectal Gyrus // undefined // undefined // Rectus_L (aal)'                             
+     4           7     -7     58    ' // Right Cerebrum // Frontal Lobe // Medial Frontal Gyrus // White Matter // undefined // Supp_Motor_Area_R (aal)'         
+     5          61    -39     30    ' // Right Cerebrum // Parietal Lobe // Inferior Parietal Lobule // Gray Matter // brodmann area 40 // SupraMarginal_R (aal)'
+     6           6      2     58    ' // Right Cerebrum // Frontal Lobe // Superior Frontal Gyrus // undefined // undefined // Supp_Motor_Area_R (aal)'          
+     7          45     -9     49    ' // Right Cerebrum // Frontal Lobe // Precentral Gyrus // White Matter // undefined // Precentral_R (aal)'                  
+     8         -48      6      1    ' // Left Cerebrum // Temporal Lobe // Superior Temporal Gyrus // undefined // undefined // Rolandic_Oper_L (aal)'           
+     9           5     21     40    ' // Right Cerebrum // Frontal Lobe // Cingulate Gyrus // Gray Matter // brodmann area 32 // Cingulum_Mid_R (aal)'           
+    10          -2      0     37    ' // Left Cerebrum // Limbic Lobe // Cingulate Gyrus // Gray Matter // brodmann area 24 // Cingulum_Mid_L (aal)'             
+    11          29     41    -10    ' // Right Cerebrum // Frontal Lobe // Middle Frontal Gyrus // Gray Matter // brodmann area 11 // Frontal_Mid_Orb_R (aal)'   
+    12         -31      0     53    ' // Left Cerebrum // Frontal Lobe // Middle Frontal Gyrus // Gray Matter // brodmann area 6 // Precentral_L (aal)'          
+

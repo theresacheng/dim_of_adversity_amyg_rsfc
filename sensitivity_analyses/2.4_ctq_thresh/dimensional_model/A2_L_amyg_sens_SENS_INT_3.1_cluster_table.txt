@@ -1,0 +1,36 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 0.850722 seconds.
+Elapsed time is 0.334968 seconds.
+    cluster         mean_cl         min_del    max_del    del_x     del_y     del_z 
+    _______    _________________    _______    _______    ______    ______    ______
+
+    1            1    -28      4     137.4     173.78      137.4    173.78       149
+    2          -16    -67     48    1.0035     3.3545     3.3545    1.0035    2.7886
+    3           10    -52     -1     0.713     2.8076      0.713    2.8076    1.4496
+    4           51    -17    -13    0.8749     3.2315     2.6245    3.2315    0.8749
+    5           11      7     47    1.5066     3.8634     1.5066    3.4926    3.8634
+    6            7     29     40    2.1527      5.843     2.3671     5.843    2.1527
+    7           18    -89     20    2.3852     3.4715     2.3852    3.4715    3.1608
+    8          -31      0     51    2.4606     6.3827     3.4745    2.4606    6.3827
+
+    cluster         mean_cl                                                                anat_labels                                                        
+    _______    _________________    __________________________________________________________________________________________________________________________
+
+    1            1    -28      4    ' // Inter-Hemispheric // undefined // undefined // undefined // undefined // undefined'                                  
+    2          -16    -67     48    ' // Left Cerebrum // Parietal Lobe // Precuneus // White Matter // undefined // Parietal_Sup_L (aal)'                    
+    3           10    -52     -1    ' // Right Cerebellum // Cerebellum Anterior Lobe // Culmen // undefined // undefined // Lingual_R (aal)'                 
+    4           51    -17    -13    ' // Right Cerebrum // Temporal Lobe // Middle Temporal Gyrus // White Matter // undefined // Temporal_Mid_R (aal)'       
+    5           11      7     47    ' // Right Cerebrum // Frontal Lobe // Medial Frontal Gyrus // Gray Matter // brodmann area 32 // Supp_Motor_Area_R (aal)'
+    6            7     29     40    ' // Right Cerebrum // Frontal Lobe // Medial Frontal Gyrus // White Matter // undefined // Frontal_Sup_Medial_R (aal)'   
+    7           18    -89     20    ' // Right Cerebrum // Occipital Lobe // Cuneus // Gray Matter // brodmann area 18 // Occipital_Sup_R (aal)'              
+    8          -31      0     51    ' // Left Cerebrum // Frontal Lobe // Middle Frontal Gyrus // Gray Matter // brodmann area 6 // Frontal_Mid_L (aal)'      
+

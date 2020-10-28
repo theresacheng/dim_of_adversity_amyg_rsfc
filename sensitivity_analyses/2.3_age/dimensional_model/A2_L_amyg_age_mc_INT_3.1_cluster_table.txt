@@ -1,0 +1,28 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 0.857571 seconds.
+Elapsed time is 0.325789 seconds.
+    cluster         mean_cl         min_del    max_del    del_x     del_y     del_z 
+    _______    _________________    _______    _______    ______    ______    ______
+
+    1            1    -28      4     137.4     173.78      137.4    173.78       149
+    2           46      6     43    2.4965     4.5003     4.5003    2.4965    3.5058
+    3           34    -40     -8     1.311     3.4279     3.4279    1.9509     1.311
+    4          -35    -47     35    1.2858     1.9943     1.9943    1.2858    1.6554
+
+    cluster         mean_cl                                                           anat_labels                                                  
+    _______    _________________    _______________________________________________________________________________________________________________
+
+    1            1    -28      4    ' // Inter-Hemispheric // undefined // undefined // undefined // undefined // undefined'                       
+    2           46      6     43    ' // Right Cerebrum // Frontal Lobe // Middle Frontal Gyrus // White Matter // undefined // Precentral_R (aal)'
+    3           34    -40     -8    ' // Right Cerebrum // Limbic Lobe // Sub-Gyral // White Matter // undefined // ParaHippocampal_R (aal)'       
+    4          -35    -47     35    ' // Left Cerebrum // Parietal Lobe // Supramarginal Gyrus // White Matter // undefined // undefined'          
+

@@ -1,0 +1,40 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 0.854786 seconds.
+Elapsed time is 0.413317 seconds.
+    cluster         mean_cl         min_del    max_del    del_x     del_y     del_z 
+    _______    _________________    _______    _______    ______    ______    ______
+
+     1           1    -28      4     137.4     173.78      137.4    173.78       149
+     2         -31      0     53     1.035     2.1713     1.2543     1.035    2.1713
+     3          63    -11    -23    1.0788     2.9972     1.0841    2.9972    1.0788
+     4           4    -24     36    2.1412     3.1193     2.1412    3.1193    3.0363
+     5         -36     10     -1    1.7414     4.4283     1.7414    4.4283     2.312
+     6           3     35    -26    2.5567     3.3889     3.3889    2.8211    2.5567
+     7          30     41     -9    4.6091     5.0437     5.0437    4.9938    4.6091
+     8         -20    -74     45    2.6831     7.8888     5.8614    7.8888    2.6831
+     9           6     23     39     2.728      4.819      2.728     4.819    4.3136
+    10         -51      8      7    8.3718     15.306     8.4262    8.3718    15.306
+
+    cluster         mean_cl                                                                 anat_labels                                                        
+    _______    _________________    ___________________________________________________________________________________________________________________________
+
+     1           1    -28      4    ' // Inter-Hemispheric // undefined // undefined // undefined // undefined // undefined'                                   
+     2         -31      0     53    ' // Left Cerebrum // Frontal Lobe // Middle Frontal Gyrus // Gray Matter // brodmann area 6 // Precentral_L (aal)'        
+     3          63    -11    -23    ' // Right Cerebrum // Temporal Lobe // Inferior Temporal Gyrus // Gray Matter // brodmann area 20 // Temporal_Mid_R (aal)'
+     4           4    -24     36    ' // Right Cerebrum // Limbic Lobe // Cingulate Gyrus // Gray Matter // brodmann area 24 // Cingulum_Mid_R (aal)'          
+     5         -36     10     -1    ' // Left Cerebrum // Sub-lobar // Insula // White Matter // undefined // Insula_L (aal)'                                  
+     6           3     35    -26    ' // Right Cerebrum // Frontal Lobe // Rectal Gyrus // Gray Matter // brodmann area 11 // Rectus_R (aal)'                  
+     7          30     41     -9    ' // Right Cerebrum // Frontal Lobe // Middle Frontal Gyrus // Gray Matter // brodmann area 11 // Frontal_Mid_Orb_R (aal)' 
+     8         -20    -74     45    ' // Left Cerebrum // Parietal Lobe // Precuneus // Gray Matter // brodmann area 7 // Parietal_Sup_L (aal)'                
+     9           6     23     39    ' // Right Cerebrum // Frontal Lobe // Cingulate Gyrus // Gray Matter // brodmann area 32 // Cingulum_Mid_R (aal)'         
+    10         -51      8      7    ' // Left Cerebrum // Frontal Lobe // Precentral Gyrus // White Matter // undefined // Frontal_Inf_Oper_L (aal)'           
+
