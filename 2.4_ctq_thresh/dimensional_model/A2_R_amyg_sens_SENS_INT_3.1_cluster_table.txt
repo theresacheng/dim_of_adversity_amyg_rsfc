@@ -1,0 +1,48 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017a (9.2.0.538062) 64-bit (glnxa64)
+                             February 23, 2017
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+Elapsed time is 0.850998 seconds.
+Elapsed time is 0.327599 seconds.
+    cluster          mean_cl          min_del    max_del     del_x     del_y     del_z 
+    _______    ___________________    _______    _______    _______    ______    ______
+
+     1           1     -28       4      137.4    173.78       137.4    173.78       149
+     2           6      25      39    0.23628    1.4206     0.23628    0.6512    1.4206
+     3         -44      49      -7     0.0041    2.1602      0.0041    0.5647    2.1602
+     4         -10    -100      13     2.0514    3.2266      3.2266    3.2266    2.0514
+     5          25      -5     -33     0.7923    3.0673      2.9626    3.0673    0.7923
+     6         -27      23      -3     2.1545    3.5254      2.1545    3.5254    3.1963
+     7          28     -42      50     0.9245    2.5689      2.5689    1.1685    0.9245
+     8          11     -96      20     0.3478    1.3303      0.9558    0.3478    1.3303
+     9          49     -24      17      2.986    5.8056       2.986    4.2966    5.8056
+    10          50     -27      55     2.2374    4.3105      4.1732    4.3105    2.2374
+    11         -29      56     -10     2.1482    4.1104       2.848    4.1104    2.1482
+    12         -44     -30      61     2.1274    4.8979      2.1274    2.6712    4.8979
+    13         -42       1     -41     4.2863    6.1734      5.5579    4.2863    6.1734
+    14          19     -92      20     6.6787    11.734      6.8329    11.734    6.6787
+
+    cluster          mean_cl                                                                 anat_labels                                                        
+    _______    ___________________    __________________________________________________________________________________________________________________________
+
+     1           1     -28       4    ' // Inter-Hemispheric // undefined // undefined // undefined // undefined // undefined'                                  
+     2           6      25      39    ' // Right Cerebrum // Frontal Lobe // Medial Frontal Gyrus // Gray Matter // brodmann area 6 // Cingulum_Mid_R (aal)'    
+     3         -44      49      -7    ' // Left Cerebrum // Frontal Lobe // Middle Frontal Gyrus // White Matter // undefined // Frontal_Mid_Orb_L (aal)'       
+     4         -10    -100      13    ' // Left Cerebrum // Occipital Lobe // Cuneus // Gray Matter // brodmann area 18 // Occipital_Sup_L (aal)'               
+     5          25      -5     -33    ' // Right Cerebrum // Limbic Lobe // Uncus // White Matter // undefined // ParaHippocampal_R (aal)'                      
+     6         -27      23      -3    ' // Left Cerebrum // Frontal Lobe // Inferior Frontal Gyrus // White Matter // undefined // Insula_L (aal)'              
+     7          28     -42      50    ' // Right Cerebrum // Parietal Lobe // Sub-Gyral // White Matter // undefined // Postcentral_R (aal)'                    
+     8          11     -96      20    ' // Right Cerebrum // Occipital Lobe // Cuneus // White Matter // undefined // Cuneus_R (aal)'                           
+     9          49     -24      17    ' // Right Cerebrum // Sub-lobar // Insula // Gray Matter // brodmann area 13 // Rolandic_Oper_R (aal)'                   
+    10          50     -27      55    ' // Right Cerebrum // Parietal Lobe // Postcentral Gyrus // Gray Matter // brodmann area 1 // Postcentral_R (aal)'       
+    11         -29      56     -10    ' // Left Cerebrum // Frontal Lobe // Superior Frontal Gyrus // White Matter // undefined // Frontal_Mid_Orb_L (aal)'     
+    12         -44     -30      61    ' // Left Cerebrum // Parietal Lobe // Postcentral Gyrus // Gray Matter // brodmann area 1 // Postcentral_L (aal)'        
+    13         -42       1     -41    ' // Left Cerebrum // Temporal Lobe // Inferior Temporal Gyrus // Gray Matter // brodmann area 20 // Temporal_Inf_L (aal)'
+    14          19     -92      20    ' // Right Cerebrum // Occipital Lobe // Cuneus // undefined // undefined // Occipital_Sup_R (aal)'                       
+
